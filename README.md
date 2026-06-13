@@ -5,7 +5,7 @@ Frontend Developer focused on React and modern web technologies.
 </p>
 
 <p align="center"> 
-  <a href="[(https://fatmhflah.github.io/portfolioo/)]">Portfolio</a>
+  <a href="https://fatmhflah.github.io/portfolioo/">Portfolio</a>
 </p>
 
 ## About Me
