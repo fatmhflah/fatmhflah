@@ -19,7 +19,7 @@ Frontend Developer focused on React and modern web technologies.
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,git,github,vscode,pug,scss" />
 </p>
 
 ## Currently Working With
