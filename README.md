@@ -22,8 +22,10 @@ Frontend Developer focused on React and modern web technologies.
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,git,github,vscode" />
 </p>
 
-## GitHub Stats
+## Currently Working With
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatmhflah&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmhflah&layout=compact&hide_border=true)
+- React
+- Next.js
+- TypeScript
+- Redux Toolkit
+- REST APIs
